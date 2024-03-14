@@ -25,6 +25,10 @@ function App() {
         <button className="btn btn-error">Error</button>
       </div>
 
+      <div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis praesentium nisi explicabo omnis nobis ipsa! Dolore, similique ipsum iste in molestiae sapiente voluptatum voluptas cum tempora incidunt fugiat ex voluptate?</p>
+      </div>
+
     </>
   )
 }
